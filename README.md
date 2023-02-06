@@ -16,3 +16,12 @@ Also, all tickets have a price group.
   -  Informing the user about different tickets available on different days of the week by defining the relationship between ticket and concert entities.
   -  Tracking the user by storing information such as name, phone and address in the system and assigning a unique ID to the user
   
+# Entities
+
+  -  Band of music
+  -  Concert
+  -  Artist
+  -  Event Place
+  -  Ticket
+  -  User profile
+
